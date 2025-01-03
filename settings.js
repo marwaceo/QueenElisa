@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==AM5lUTxoWNXBVO5kFcXJ0ZpVGS5QVWjhmT1MUWop0Nxd2avJkUtAlVSJDWjM0dapmRxM2apwd=002984956552',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,13 +19,13 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://ma212rwa:4LCeu02gprIgbBN2@cluster0.manql.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: 'JUST CEO',
+  OWNER_NUMBER: '255686561714',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
@@ -37,13 +37,13 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,
+  BOT_OFFLINE: true,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
